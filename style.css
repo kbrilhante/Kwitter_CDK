@@ -1,0 +1,33 @@
+body {
+    text-align: center;
+    background-color: cornflowerblue;
+    overflow: hidden;
+}
+
+.header, .form-group {
+    margin: 20px;
+}
+
+.divContent {
+    background-color: #A7C1F1;
+    padding: 10px;
+    border-radius: 30px;
+}
+
+.logo {
+    width: 30%;
+}
+
+#trending {
+    margin-top: 30px;
+}
+
+.nomeSala {
+    font-size: 20px;
+    padding: 15px;
+    cursor: pointer;
+}
+
+.nomeSala:hover {
+    background-color: antiquewhite;
+}
